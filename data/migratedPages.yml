@@ -31,6 +31,9 @@ Community_credits:
 Core_APIs:
 - filePath: "/docs/apis.md"
   slug: "/docs/apis"
+Course_formats:
+- filePath: "/docs/apis/plugintypes/format/index.mdx"
+  slug: "/docs/apis/plugintypes/format"
 Creating_mobile_course_formats:
 - filePath: "/docs/guides/moodleapp/development/create-course-formats.md"
   slug: "/docs/guides/moodleapp/development/create-course-formats"
